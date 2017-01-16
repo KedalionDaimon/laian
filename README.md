@@ -9,7 +9,7 @@ Just load it normally in your Common Lisp interpreter. However, if you use SBCL,
 
 sbcl --control-stack-size 100
 
-- thereafter, just
+thereafter, just
 
 (load "laian.lsp")
 
@@ -21,7 +21,7 @@ It may well take some 15-30 minutes between answers - this is normal and shall b
 
 II. SAMPLE INTERACTION:
 
-* (load "laian.lsp")
+(load "laian.lsp")
 
 (LEARNING ARTIFICIAL INTELLIGENCE APPLYING NOTIONS (LAIAN))
 (CATEGORY RECOGNITION SYSTEM) 
